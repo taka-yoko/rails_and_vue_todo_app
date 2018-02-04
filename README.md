@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample TODO application using Ruby on Rails and Vue.js.
+Mainly inspired by the below site(almost same).
+https://qiita.com/naoki85/items/51a8b0f2cbf949d08b11
 
-Things you may want to cover:
+# Versions
 
-* Ruby version
+* Ruby 2.4.1
 
-* System dependencies
+* Rails 5.1.4
 
-* Configuration
+* Node.js 8.6.0
 
-* Database creation
+* yarn 1.1.0
 
-* Database initialization
+* webpacker 3.2.1
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Vue.js 2.5.13
